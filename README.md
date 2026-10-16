@@ -11,7 +11,7 @@
 #### Second Examiner: Prof. Dr. Mending
 
 
-##### In order to recreate the same running environment, run this command in your terminal: pip install -r requirements.txt
+##### In order to recreate the same running environment, run this command in your terminal: pip install -r requirements.txt.
 
 ##### The underlying dataset, the Default of Credit Card Clients dataset from the UCI Machine Learning Repository (Yeh, I. (2009). Default of Credit Card Clients [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C55S3H), is provided in the folder "data" under "credit_data.csv". It is recommended to locally store the dataset. If not, the dataset is fetched from the UCI repository when the first notebook is run.
 
