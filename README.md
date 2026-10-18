@@ -8,7 +8,11 @@
 #### Student number: 625187
 #### E-Mail address: celina.gina.kaliman@student.hu-berlin.de
 #### First Examiner: Prof. Dr. Lessmann
+<<<<<<< HEAD
 #### Second Examiner: Prof. Dr. Mendling
+=======
+#### Second Examiner: Prof. Dr. Mending
+>>>>>>> e6645c593cfa21c2347470f9358918f95027edd3
 
 
 ##### In order to recreate the same running environment, run this command in your terminal: pip install -r requirements.txt.
